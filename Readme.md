@@ -8,15 +8,11 @@ https://docs.expo.io/bare/using-expo-client/
 ``` 
 ## Preview - 
 
-```
+
+Uploading abc_7sLAbZZK_c6Yj.mp4…
 
 
-https://user-images.githubusercontent.com/62905161/123909158-d5cf6400-d9a2-11eb-9b08-8ee3cebdf5de.mp4
 
-
-```
-
-- Axios
 
 How to run this project :
 
