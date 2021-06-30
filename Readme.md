@@ -9,8 +9,7 @@ https://docs.expo.io/bare/using-expo-client/
 ## Preview - 
 
 
-Uploading abc_7sLAbZZK_c6Yj.mp4…
-
+https://user-images.githubusercontent.com/62905161/123.909306-fe575e00-d9a2-11eb-909e-b3a756e2ded6.mp4
 
 
 
